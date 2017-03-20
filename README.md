@@ -2,6 +2,8 @@
 
 CSS demo
 
+Library was created in Omnis Studio 6.0.3
+
 The oCSS object does all the heavy lifting. All you need to do is create the object inside the $construct of any object where you want use "CSS".
 
 The only required parameter is to pass in a reference to the container where you want the CSS to be in effect.
