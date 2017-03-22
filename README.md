@@ -15,3 +15,5 @@ To make this work throughout the program, place the object in the primary window
 In the current example, I've made decorators for Group Box, Headed Listbox, Entry Field, Multiline Entry Field, Tab Pane, Push Button, and a background wash component to put a wash on the background.
 
 The current theme could be read from a preferences row in the database and applied to each type of object in the window. In this way, you could allow users to set the colors and style for any type of object from a preferences pane.
+
+Feel free to use this in anyway you wish.
